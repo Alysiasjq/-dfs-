@@ -1,1 +1,1 @@
-# seekbomb
+用C++的easyx库进行绘图，以dfs为搜索，实现的扫雷游戏
